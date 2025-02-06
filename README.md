@@ -42,6 +42,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ![image](https://github.com/user-attachments/assets/a641fd23-8b7a-468a-a27a-9529df6e25c5)
 ![image](https://github.com/user-attachments/assets/1744f61b-1d64-4995-86ed-2792a77230c8)
 ![image](https://github.com/user-attachments/assets/e3490e7a-67f8-42c9-af3d-7e0481e6583e)
+![image](https://github.com/user-attachments/assets/c4da57ce-e1d5-4230-a771-0609019ff5d7)
+
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
